@@ -1,0 +1,167 @@
+[
+  {
+    "id": "PROD-001",
+    "name": "Wireless Mouse",
+    "sku": "WM-001",
+    "category": "Electronics",
+    "location": "LOC-001",
+    "stock": 120,
+    "reorderLevel": 50,
+    "stockAgeDays": 10,
+    "lastRestockDate": "2026-01-20"
+  },
+  {
+    "id": "PROD-002",
+    "name": "Mechanical Keyboard",
+    "sku": "KB-002",
+    "category": "Electronics",
+    "location": "LOC-002",
+    "stock": 30,
+    "reorderLevel": 20,
+    "stockAgeDays": 15,
+    "lastRestockDate": "2026-01-18"
+  },
+  {
+    "id": "PROD-003",
+    "name": "Office Chair",
+    "sku": "OC-001",
+    "category": "Furniture",
+    "location": "LOC-003",
+    "stock": 15,
+    "reorderLevel": 10,
+    "stockAgeDays": 40,
+    "lastRestockDate": "2025-12-30"
+  },
+  {
+    "id": "PROD-004",
+    "name": "Standing Desk",
+    "sku": "SD-001",
+    "category": "Furniture",
+    "location": "LOC-001",
+    "stock": 5,
+    "reorderLevel": 5,
+    "stockAgeDays": 60,
+    "lastRestockDate": "2025-12-15"
+  },
+  {
+    "id": "PROD-005",
+    "name": "USB-C Cable",
+    "sku": "UC-001",
+    "category": "Electronics",
+    "location": "LOC-002",
+    "stock": 200,
+    "reorderLevel": 100,
+    "stockAgeDays": 5,
+    "lastRestockDate": "2026-01-25"
+  },
+  {
+    "id": "PROD-006",
+    "name": "Notebook",
+    "sku": "NB-001",
+    "category": "Stationery",
+    "location": "LOC-003",
+    "stock": 50,
+    "reorderLevel": 25,
+    "stockAgeDays": 20,
+    "lastRestockDate": "2026-01-10"
+  },
+  {
+    "id": "PROD-007",
+    "name": "Pen Set",
+    "sku": "PS-001",
+    "category": "Stationery",
+    "location": "LOC-001",
+    "stock": 80,
+    "reorderLevel": 40,
+    "stockAgeDays": 12,
+    "lastRestockDate": "2026-01-15"
+  },
+  {
+    "id": "PROD-008",
+    "name": "LED Monitor",
+    "sku": "LM-001",
+    "category": "Electronics",
+    "location": "LOC-002",
+    "stock": 25,
+    "reorderLevel": 10,
+    "stockAgeDays": 25,
+    "lastRestockDate": "2026-01-05"
+  },
+  {
+    "id": "PROD-009",
+    "name": "Desk Lamp",
+    "sku": "DL-001",
+    "category": "Electronics",
+    "location": "LOC-003",
+    "stock": 40,
+    "reorderLevel": 15,
+    "stockAgeDays": 18,
+    "lastRestockDate": "2026-01-12"
+  },
+  {
+    "id": "PROD-010",
+    "name": "Whiteboard",
+    "sku": "WB-001",
+    "category": "Furniture",
+    "location": "LOC-001",
+    "stock": 8,
+    "reorderLevel": 5,
+    "stockAgeDays": 50,
+    "lastRestockDate": "2025-12-20"
+  },
+  {
+    "id": "PROD-011",
+    "name": "Sticky Notes",
+    "sku": "SN-001",
+    "category": "Stationery",
+    "location": "LOC-002",
+    "stock": 150,
+    "reorderLevel": 75,
+    "stockAgeDays": 7,
+    "lastRestockDate": "2026-01-22"
+  },
+  {
+    "id": "PROD-012",
+    "name": "Ethernet Cable",
+    "sku": "EC-001",
+    "category": "Electronics",
+    "location": "LOC-003",
+    "stock": 60,
+    "reorderLevel": 30,
+    "stockAgeDays": 14,
+    "lastRestockDate": "2026-01-18"
+  },
+  {
+    "id": "PROD-013",
+    "name": "Laptop Stand",
+    "sku": "LS-001",
+    "category": "Electronics",
+    "location": "LOC-001",
+    "stock": 10,
+    "reorderLevel": 5,
+    "stockAgeDays": 35,
+    "lastRestockDate": "2025-12-28"
+  },
+  {
+    "id": "PROD-014",
+    "name": "Printer Paper",
+    "sku": "PP-001",
+    "category": "Stationery",
+    "location": "LOC-002",
+    "stock": 300,
+    "reorderLevel": 150,
+    "stockAgeDays": 3,
+    "lastRestockDate": "2026-01-26"
+  },
+  {
+    "id": "PROD-015",
+    "name": "Projector",
+    "sku": "PR-001",
+    "category": "Electronics",
+    "location": "LOC-003",
+    "stock": 3,
+    "reorderLevel": 2,
+    "stockAgeDays": 70,
+    "lastRestockDate": "2025-11-30"
+  }
+]
