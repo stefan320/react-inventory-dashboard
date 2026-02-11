@@ -1,11 +1,11 @@
-import './App.css'
+import './index.css';
 
 function App() {
   return (
     <>
-      <div>
-        <p>hello</p>
-       </div>
+      <h1 className="text-4xl text-red-500 font-bold">
+          Hello
+      </h1>
     </>
   )
 }

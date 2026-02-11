@@ -1,167 +1,919 @@
-[
-  {
-    "id": "PROD-001",
-    "name": "Wireless Mouse",
-    "sku": "WM-001",
-    "category": "Electronics",
-    "location": "LOC-001",
-    "stock": 120,
-    "reorderLevel": 50,
-    "stockAgeDays": 10,
-    "lastRestockDate": "2026-01-20"
+None selected 
+
+Skip to content
+Using Gmail with screen readers
+luca 
+Conversations
+LinkedIn Job Alerts
+Inbox
+“developer”: Archer - The IT Recruitment Consultancy (Malta) - .NET Software Developer – Maltese Speaker! and more
+ 
+20 Jan
+LinkedIn Job Alerts
+Inbox
+“developer”: BettingJobs - Software Developer and more
+ - Luca Sampaio. 1 connection. Easy Apply. Archer - The IT Recruitment Consultancy (Malta) .NET Software Developer – Maltese Speaker!
+ 
+22 Jan
+Pinterest
+Inbox
+Forearm Tattoo for Stefan
+ - Jan 6, 2021 - This Pin was discovered by Lucas Greatest Tattoo Ideas For Men in 2023 - Tattoo Stylist. Jan 6, 2021 - Thi... Jan 6, 2021 - This Pin was ...
+ 
+12/08/2024
+JavaScript Weekly
+Inbox
+ECMAScript 2023 for President
+ - Nick Lucas. Why 2023 is the Time to Migrate from AngularJS to Angular — AngularJS went EOL a year ago so hopefully this is old news.
+ 
+24/02/2023
+LinkedIn
+Inbox
+Frontend Software Engineer - Web3 role at BML Group Ltd: 4 connections
+ - Luca Sampaio. 1 connection. Easy Apply. DeviceOne API · Junior Back End Developer. DeviceOne API · Valletta, Malta (On-site). gray clock icon
+ 
+27 Jan
+JavaScript Weekly
+Inbox
+On the origin of packages
+ - Luca Burgio. Tuple – One-Click Code Reviews for Remote Devs — Why waste hours setting up Zoom just to review a couple lines of code?
+ 
+20/04/2023
+LinkedIn
+Inbox
+Michael Mayer-Rosa recently posted
+ - Luca Caruana. 💰 Money Transformation Mentor: Transform your money… What's cooking at Monipal? 🤝 Choosing the right persons to work with in your ...
+ 
+25/09/2024
+CodePen
+Inbox
+Liquid Galleries, corner-shape, and Cat-ptcha
+ - Check out our collection from week one, including Pens by Kyle Ross, xtaltia, Luka Činč, and RAFA3L. Want to join this month's challenge?
+ 
+11/08/2025
+LinkedIn Job Alerts
+Inbox
+“developer”: Archer - The IT Recruitment Consultancy (Malta) - Full Stack Engineer and more
+ 
+28 Jan
+LinkedIn Job Alerts
+Inbox
+“web developer”: Archer - The IT Recruitment Consultancy (Malta) - Full Stack Engineer and more
+ 
+27 Jan
+CodePen
+Inbox
+Toasts, Grids, and Generation
+ - but this slider by Luka Činč is awfully fun to watch scroll by as the cards change rotation via scroll-driven animations as they scroll by.
+ 
+19/05/2025
+JavaScript Weekly
+Inbox
+On function composition in JavaScript
+ - Luca Falasco. Gladys Assistant: A Privacy-First, Open-Source Home Assistant — It runs on any Linux machine (including a Raspberry Pi) and uses Node ...
+ 
+15/04/2022
+Medium Daily Digest
+Inbox
+API Design: From Basics to Best Practices | Seliesh Jacob in Dev Genius
+ - Luca Restagno · I've sold my 4th SaaS as a solopreneur. The backstory. I have great news, I sold my 4th SaaS product! 6 min read. Claps. 605
+ 
+28/07/2024
+{
+  "metadata": {
+    "generatedAt": "2026-01-27T13:07:00Z",
+    "version": "1.0",
+    "datasetType": "inventory-management"
   },
-  {
-    "id": "PROD-002",
-    "name": "Mechanical Keyboard",
-    "sku": "KB-002",
-    "category": "Electronics",
-    "location": "LOC-002",
-    "stock": 30,
-    "reorderLevel": 20,
-    "stockAgeDays": 15,
-    "lastRestockDate": "2026-01-18"
-  },
-  {
-    "id": "PROD-003",
-    "name": "Office Chair",
-    "sku": "OC-001",
-    "category": "Furniture",
-    "location": "LOC-003",
-    "stock": 15,
-    "reorderLevel": 10,
-    "stockAgeDays": 40,
-    "lastRestockDate": "2025-12-30"
-  },
-  {
-    "id": "PROD-004",
-    "name": "Standing Desk",
-    "sku": "SD-001",
-    "category": "Furniture",
-    "location": "LOC-001",
-    "stock": 5,
-    "reorderLevel": 5,
-    "stockAgeDays": 60,
-    "lastRestockDate": "2025-12-15"
-  },
-  {
-    "id": "PROD-005",
-    "name": "USB-C Cable",
-    "sku": "UC-001",
-    "category": "Electronics",
-    "location": "LOC-002",
-    "stock": 200,
-    "reorderLevel": 100,
-    "stockAgeDays": 5,
-    "lastRestockDate": "2026-01-25"
-  },
-  {
-    "id": "PROD-006",
-    "name": "Notebook",
-    "sku": "NB-001",
-    "category": "Stationery",
-    "location": "LOC-003",
-    "stock": 50,
-    "reorderLevel": 25,
-    "stockAgeDays": 20,
-    "lastRestockDate": "2026-01-10"
-  },
-  {
-    "id": "PROD-007",
-    "name": "Pen Set",
-    "sku": "PS-001",
-    "category": "Stationery",
-    "location": "LOC-001",
-    "stock": 80,
-    "reorderLevel": 40,
-    "stockAgeDays": 12,
-    "lastRestockDate": "2026-01-15"
-  },
-  {
-    "id": "PROD-008",
-    "name": "LED Monitor",
-    "sku": "LM-001",
-    "category": "Electronics",
-    "location": "LOC-002",
-    "stock": 25,
-    "reorderLevel": 10,
-    "stockAgeDays": 25,
-    "lastRestockDate": "2026-01-05"
-  },
-  {
-    "id": "PROD-009",
-    "name": "Desk Lamp",
-    "sku": "DL-001",
-    "category": "Electronics",
-    "location": "LOC-003",
-    "stock": 40,
-    "reorderLevel": 15,
-    "stockAgeDays": 18,
-    "lastRestockDate": "2026-01-12"
-  },
-  {
-    "id": "PROD-010",
-    "name": "Whiteboard",
-    "sku": "WB-001",
-    "category": "Furniture",
-    "location": "LOC-001",
-    "stock": 8,
-    "reorderLevel": 5,
-    "stockAgeDays": 50,
-    "lastRestockDate": "2025-12-20"
-  },
-  {
-    "id": "PROD-011",
-    "name": "Sticky Notes",
-    "sku": "SN-001",
-    "category": "Stationery",
-    "location": "LOC-002",
-    "stock": 150,
-    "reorderLevel": 75,
-    "stockAgeDays": 7,
-    "lastRestockDate": "2026-01-22"
-  },
-  {
-    "id": "PROD-012",
-    "name": "Ethernet Cable",
-    "sku": "EC-001",
-    "category": "Electronics",
-    "location": "LOC-003",
-    "stock": 60,
-    "reorderLevel": 30,
-    "stockAgeDays": 14,
-    "lastRestockDate": "2026-01-18"
-  },
-  {
-    "id": "PROD-013",
-    "name": "Laptop Stand",
-    "sku": "LS-001",
-    "category": "Electronics",
-    "location": "LOC-001",
-    "stock": 10,
-    "reorderLevel": 5,
-    "stockAgeDays": 35,
-    "lastRestockDate": "2025-12-28"
-  },
-  {
-    "id": "PROD-014",
-    "name": "Printer Paper",
-    "sku": "PP-001",
-    "category": "Stationery",
-    "location": "LOC-002",
-    "stock": 300,
-    "reorderLevel": 150,
-    "stockAgeDays": 3,
-    "lastRestockDate": "2026-01-26"
-  },
-  {
-    "id": "PROD-015",
-    "name": "Projector",
-    "sku": "PR-001",
-    "category": "Electronics",
-    "location": "LOC-003",
-    "stock": 3,
-    "reorderLevel": 2,
-    "stockAgeDays": 70,
-    "lastRestockDate": "2025-11-30"
-  }
-]
+  "locations": [
+    {
+      "id": "LOC-001",
+      "name": "Central Warehouse",
+      "type": "warehouse",
+      "city": "Valletta",
+      "capacity": 50000,
+      "manager": "John Smith"
+    },
+    {
+      "id": "LOC-002",
+      "name": "Northern Distribution Center",
+      "type": "warehouse",
+      "city": "Mosta",
+      "capacity": 35000,
+      "manager": "Maria Garcia"
+    },
+    {
+      "id": "LOC-003",
+      "name": "Southern Store",
+      "type": "store",
+      "city": "Birzebbugia",
+      "capacity": 5000,
+      "manager": "Robert Johnson"
+    },
+    {
+      "id": "LOC-004",
+      "name": "Western Outlet",
+      "type": "store",
+      "city": "Mdina",
+      "capacity": 3000,
+      "manager": "Sophie Turner"
+    },
+    {
+      "id": "LOC-005",
+      "name": "Eastern Hub",
+      "type": "warehouse",
+      "city": "Naxxar",
+      "capacity": 40000,
+      "manager": "Ahmad Hassan"
+    }
+  ],
+  "categories": [
+    "Electronics",
+    "Clothing",
+    "Home Goods",
+    "Sports Equipment",
+    "Office Supplies",
+    "Food & Beverage",
+    "Furniture",
+    "Tools & Hardware"
+  ],
+  "products": [
+    {
+      "id": "PROD-001",
+      "sku": "SKU-10001",
+      "name": "Wireless Bluetooth Headphones",
+      "category": "Electronics",
+      "description": "Premium noise-cancelling over-ear headphones with 30-hour battery life",
+      "unitPrice": 129.99,
+      "reorderLevel": 25,
+      "totalStock": 187,
+      "lastUpdated": "2026-01-27T10:30:00Z"
+    },
+    {
+      "id": "PROD-002",
+      "sku": "SKU-10002",
+      "name": "USB-C Fast Charger 65W",
+      "category": "Electronics",
+      "description": "Multi-device fast charger with USB-C and USB-A ports",
+      "unitPrice": 45.99,
+      "reorderLevel": 50,
+      "totalStock": 8,
+      "lastUpdated": "2026-01-27T09:15:00Z"
+    },
+    {
+      "id": "PROD-003",
+      "sku": "SKU-10003",
+      "name": "Cotton T-Shirt",
+      "category": "Clothing",
+      "description": "100% organic cotton t-shirt, available in multiple colours",
+      "unitPrice": 19.99,
+      "reorderLevel": 100,
+      "totalStock": 542,
+      "lastUpdated": "2026-01-26T14:20:00Z"
+    },
+    {
+      "id": "PROD-004",
+      "sku": "SKU-10004",
+      "name": "Ergonomic Office Chair",
+      "category": "Furniture",
+      "description": "Adjustable office chair with lumbar support and armrests",
+      "unitPrice": 299.99,
+      "reorderLevel": 10,
+      "totalStock": 34,
+      "lastUpdated": "2026-01-27T11:00:00Z"
+    },
+    {
+      "id": "PROD-005",
+      "sku": "SKU-10005",
+      "name": "Stainless Steel Water Bottle",
+      "category": "Home Goods",
+      "description": "Insulated 750ml water bottle keeps drinks cold for 24 hours",
+      "unitPrice": 34.99,
+      "reorderLevel": 75,
+      "totalStock": 312,
+      "lastUpdated": "2026-01-27T08:45:00Z"
+    },
+    {
+      "id": "PROD-006",
+      "sku": "SKU-10006",
+      "name": "Yoga Mat",
+      "category": "Sports Equipment",
+      "description": "6mm thick non-slip yoga mat with carrying strap",
+      "unitPrice": 29.99,
+      "reorderLevel": 40,
+      "totalStock": 156,
+      "lastUpdated": "2026-01-26T16:30:00Z"
+    },
+    {
+      "id": "PROD-007",
+      "sku": "SKU-10007",
+      "name": "Desk Lamp LED",
+      "category": "Office Supplies",
+      "description": "Adjustable LED desk lamp with touch control and USB charging port",
+      "unitPrice": 54.99,
+      "reorderLevel": 20,
+      "totalStock": 89,
+      "lastUpdated": "2026-01-27T12:10:00Z"
+    },
+    {
+      "id": "PROD-008",
+      "sku": "SKU-10008",
+      "name": "Coffee Maker",
+      "category": "Home Goods",
+      "description": "12-cup programmable coffee maker with thermal carafe",
+      "unitPrice": 89.99,
+      "reorderLevel": 15,
+      "totalStock": 42,
+      "lastUpdated": "2026-01-27T07:20:00Z"
+    },
+    {
+      "id": "PROD-009",
+      "sku": "SKU-10009",
+      "name": "Organic Coffee Beans",
+      "category": "Food & Beverage",
+      "description": "1kg bag of premium organic coffee beans, fair trade",
+      "unitPrice": 24.99,
+      "reorderLevel": 60,
+      "totalStock": 127,
+      "lastUpdated": "2026-01-26T13:45:00Z"
+    },
+    {
+      "id": "PROD-010",
+      "sku": "SKU-10010",
+      "name": "Adjustable Dumbbell Set",
+      "category": "Sports Equipment",
+      "description": "5-25kg adjustable dumbbell pair with carry case",
+      "unitPrice": 199.99,
+      "reorderLevel": 8,
+      "totalStock": 23,
+      "lastUpdated": "2026-01-27T10:00:00Z"
+    },
+    {
+      "id": "PROD-011",
+      "sku": "SKU-10011",
+      "name": "Mechanical Keyboard",
+      "category": "Electronics",
+      "description": "RGB mechanical keyboard with Cherry MX switches",
+      "unitPrice": 159.99,
+      "reorderLevel": 18,
+      "totalStock": 5,
+      "lastUpdated": "2026-01-27T13:05:00Z"
+    },
+    {
+      "id": "PROD-012",
+      "sku": "SKU-10012",
+      "name": "Wireless Mouse",
+      "category": "Electronics",
+      "description": "Ergonomic wireless mouse with 18-month battery life",
+      "unitPrice": 34.99,
+      "reorderLevel": 30,
+      "totalStock": 78,
+      "lastUpdated": "2026-01-26T15:20:00Z"
+    },
+    {
+      "id": "PROD-013",
+      "sku": "SKU-10013",
+      "name": "Monitor Stand",
+      "category": "Office Supplies",
+      "description": "Adjustable monitor stand with storage drawer",
+      "unitPrice": 44.99,
+      "reorderLevel": 25,
+      "totalStock": 56,
+      "lastUpdated": "2026-01-27T09:30:00Z"
+    },
+    {
+      "id": "PROD-014",
+      "sku": "SKU-10014",
+      "name": "Running Shoes",
+      "category": "Sports Equipment",
+      "description": "Professional running shoes with gel cushioning, sizes 6-13",
+      "unitPrice": 119.99,
+      "reorderLevel": 20,
+      "totalStock": 147,
+      "lastUpdated": "2026-01-27T06:45:00Z"
+    },
+    {
+      "id": "PROD-015",
+      "sku": "SKU-10015",
+      "name": "Portable Projector",
+      "category": "Electronics",
+      "description": "1080p portable projector with wireless casting",
+      "unitPrice": 349.99,
+      "reorderLevel": 5,
+      "totalStock": 12,
+      "lastUpdated": "2026-01-27T11:40:00Z"
+    },
+    {
+      "id": "PROD-016",
+      "sku": "SKU-10016",
+      "name": "Jeans",
+      "category": "Clothing",
+      "description": "Classic denim jeans, available in multiple wash styles and sizes",
+      "unitPrice": 69.99,
+      "reorderLevel": 80,
+      "totalStock": 298,
+      "lastUpdated": "2026-01-26T11:00:00Z"
+    },
+    {
+      "id": "PROD-017",
+      "sku": "SKU-10017",
+      "name": "Power Drill",
+      "category": "Tools & Hardware",
+      "description": "20V cordless power drill with battery and charger",
+      "unitPrice": 79.99,
+      "reorderLevel": 12,
+      "totalStock": 38,
+      "lastUpdated": "2026-01-27T10:15:00Z"
+    },
+    {
+      "id": "PROD-018",
+      "sku": "SKU-10018",
+      "name": "Desk Organizer",
+      "category": "Office Supplies",
+      "description": "Multi-compartment desk organizer in bamboo",
+      "unitPrice": 24.99,
+      "reorderLevel": 35,
+      "totalStock": 2,
+      "lastUpdated": "2026-01-27T13:00:00Z"
+    },
+    {
+      "id": "PROD-019",
+      "sku": "SKU-10019",
+      "name": "Webcam 1080p",
+      "category": "Electronics",
+      "description": "Full HD webcam with auto-focus and built-in microphone",
+      "unitPrice": 49.99,
+      "reorderLevel": 22,
+      "totalStock": 91,
+      "lastUpdated": "2026-01-27T08:20:00Z"
+    },
+    {
+      "id": "PROD-020",
+      "sku": "SKU-10020",
+      "name": "Bedding Set",
+      "category": "Home Goods",
+      "description": "300-thread count cotton bedding set (pillow, duvet, sheets)",
+      "unitPrice": 99.99,
+      "reorderLevel": 15,
+      "totalStock": 67,
+      "lastUpdated": "2026-01-26T12:30:00Z"
+    },
+    {
+      "id": "PROD-021",
+      "sku": "SKU-10021",
+      "name": "Bath Towel Set",
+      "category": "Home Goods",
+      "description": "Set of 3 premium bath towels in various colours",
+      "unitPrice": 39.99,
+      "reorderLevel": 20,
+      "totalStock": 183,
+      "lastUpdated": "2026-01-27T07:00:00Z"
+    },
+    {
+      "id": "PROD-022",
+      "sku": "SKU-10022",
+      "name": "Notebook Set",
+      "category": "Office Supplies",
+      "description": "Pack of 5 lined notebooks, 200 pages each",
+      "unitPrice": 14.99,
+      "reorderLevel": 100,
+      "totalStock": 456,
+      "lastUpdated": "2026-01-27T09:45:00Z"
+    },
+    {
+      "id": "PROD-023",
+      "sku": "SKU-10023",
+      "name": "Backpack",
+      "category": "Clothing",
+      "description": "30-litre travel backpack with USB charging port",
+      "unitPrice": 79.99,
+      "reorderLevel": 15,
+      "totalStock": 43,
+      "lastUpdated": "2026-01-27T11:20:00Z"
+    },
+    {
+      "id": "PROD-024",
+      "sku": "SKU-10024",
+      "name": "Resistance Bands Set",
+      "category": "Sports Equipment",
+      "description": "5-piece resistance band set with carrying bag",
+      "unitPrice": 19.99,
+      "reorderLevel": 35,
+      "totalStock": 109,
+      "lastUpdated": "2026-01-26T14:00:00Z"
+    },
+    {
+      "id": "PROD-025",
+      "sku": "SKU-10025",
+      "name": "Screwdriver Set",
+      "category": "Tools & Hardware",
+      "description": "37-piece screwdriver and bit set in carrying case",
+      "unitPrice": 29.99,
+      "reorderLevel": 20,
+      "totalStock": 71,
+      "lastUpdated": "2026-01-27T06:30:00Z"
+    }
+  ],
+  "inventory": [
+    {
+      "productId": "PROD-001",
+      "locationId": "LOC-001",
+      "quantity": 85,
+      "lastRestockingDate": "2026-01-20T08:00:00Z"
+    },
+    {
+      "productId": "PROD-001",
+      "locationId": "LOC-002",
+      "quantity": 62,
+      "lastRestockingDate": "2026-01-22T10:30:00Z"
+    },
+    {
+      "productId": "PROD-001",
+      "locationId": "LOC-003",
+      "quantity": 28,
+      "lastRestockingDate": "2026-01-19T14:15:00Z"
+    },
+    {
+      "productId": "PROD-001",
+      "locationId": "LOC-004",
+      "quantity": 12,
+      "lastRestockingDate": "2026-01-18T09:00:00Z"
+    },
+    {
+      "productId": "PROD-002",
+      "locationId": "LOC-001",
+      "quantity": 3,
+      "lastRestockingDate": "2026-01-10T11:00:00Z"
+    },
+    {
+      "productId": "PROD-002",
+      "locationId": "LOC-002",
+      "quantity": 5,
+      "lastRestockingDate": "2026-01-12T13:30:00Z"
+    },
+    {
+      "productId": "PROD-003",
+      "locationId": "LOC-001",
+      "quantity": 215,
+      "lastRestockingDate": "2026-01-25T07:00:00Z"
+    },
+    {
+      "productId": "PROD-003",
+      "locationId": "LOC-002",
+      "quantity": 156,
+      "lastRestockingDate": "2026-01-24T15:20:00Z"
+    },
+    {
+      "productId": "PROD-003",
+      "locationId": "LOC-003",
+      "quantity": 89,
+      "lastRestockingDate": "2026-01-23T12:00:00Z"
+    },
+    {
+      "productId": "PROD-003",
+      "locationId": "LOC-004",
+      "quantity": 82,
+      "lastRestockingDate": "2026-01-26T16:45:00Z"
+    },
+    {
+      "productId": "PROD-004",
+      "locationId": "LOC-001",
+      "quantity": 18,
+      "lastRestockingDate": "2026-01-15T09:30:00Z"
+    },
+    {
+      "productId": "PROD-004",
+      "locationId": "LOC-002",
+      "quantity": 16,
+      "lastRestockingDate": "2026-01-17T11:00:00Z"
+    },
+    {
+      "productId": "PROD-005",
+      "locationId": "LOC-001",
+      "quantity": 145,
+      "lastRestockingDate": "2026-01-23T08:15:00Z"
+    },
+    {
+      "productId": "PROD-005",
+      "locationId": "LOC-002",
+      "quantity": 98,
+      "lastRestockingDate": "2026-01-24T10:45:00Z"
+    },
+    {
+      "productId": "PROD-005",
+      "locationId": "LOC-003",
+      "quantity": 42,
+      "lastRestockingDate": "2026-01-22T14:20:00Z"
+    },
+    {
+      "productId": "PROD-005",
+      "locationId": "LOC-004",
+      "quantity": 27,
+      "lastRestockingDate": "2026-01-21T13:00:00Z"
+    },
+    {
+      "productId": "PROD-006",
+      "locationId": "LOC-001",
+      "quantity": 78,
+      "lastRestockingDate": "2026-01-20T16:30:00Z"
+    },
+    {
+      "productId": "PROD-006",
+      "locationId": "LOC-002",
+      "quantity": 54,
+      "lastRestockingDate": "2026-01-22T09:00:00Z"
+    },
+    {
+      "productId": "PROD-006",
+      "locationId": "LOC-003",
+      "quantity": 24,
+      "lastRestockingDate": "2026-01-19T15:45:00Z"
+    },
+    {
+      "productId": "PROD-007",
+      "locationId": "LOC-001",
+      "quantity": 45,
+      "lastRestockingDate": "2026-01-21T10:20:00Z"
+    },
+    {
+      "productId": "PROD-007",
+      "locationId": "LOC-002",
+      "quantity": 31,
+      "lastRestockingDate": "2026-01-23T14:00:00Z"
+    },
+    {
+      "productId": "PROD-007",
+      "locationId": "LOC-003",
+      "quantity": 13,
+      "lastRestockingDate": "2026-01-20T12:30:00Z"
+    },
+    {
+      "productId": "PROD-008",
+      "locationId": "LOC-001",
+      "quantity": 28,
+      "lastRestockingDate": "2026-01-18T08:45:00Z"
+    },
+    {
+      "productId": "PROD-008",
+      "locationId": "LOC-002",
+      "quantity": 14,
+      "lastRestockingDate": "2026-01-16T11:15:00Z"
+    },
+    {
+      "productId": "PROD-009",
+      "locationId": "LOC-001",
+      "quantity": 64,
+      "lastRestockingDate": "2026-01-22T13:20:00Z"
+    },
+    {
+      "productId": "PROD-009",
+      "locationId": "LOC-002",
+      "quantity": 38,
+      "lastRestockingDate": "2026-01-24T15:50:00Z"
+    },
+    {
+      "productId": "PROD-009",
+      "locationId": "LOC-003",
+      "quantity": 25,
+      "lastRestockingDate": "2026-01-20T09:30:00Z"
+    },
+    {
+      "productId": "PROD-010",
+      "locationId": "LOC-001",
+      "quantity": 15,
+      "lastRestockingDate": "2026-01-19T14:00:00Z"
+    },
+    {
+      "productId": "PROD-010",
+      "locationId": "LOC-002",
+      "quantity": 8,
+      "lastRestockingDate": "2026-01-17T10:30:00Z"
+    },
+    {
+      "productId": "PROD-011",
+      "locationId": "LOC-001",
+      "quantity": 2,
+      "lastRestockingDate": "2026-01-05T16:00:00Z"
+    },
+    {
+      "productId": "PROD-011",
+      "locationId": "LOC-002",
+      "quantity": 3,
+      "lastRestockingDate": "2026-01-08T12:30:00Z"
+    },
+    {
+      "productId": "PROD-012",
+      "locationId": "LOC-001",
+      "quantity": 42,
+      "lastRestockingDate": "2026-01-21T09:15:00Z"
+    },
+    {
+      "productId": "PROD-012",
+      "locationId": "LOC-002",
+      "quantity": 36,
+      "lastRestockingDate": "2026-01-23T11:45:00Z"
+    },
+    {
+      "productId": "PROD-013",
+      "locationId": "LOC-001",
+      "quantity": 34,
+      "lastRestockingDate": "2026-01-20T13:40:00Z"
+    },
+    {
+      "productId": "PROD-013",
+      "locationId": "LOC-002",
+      "quantity": 22,
+      "lastRestockingDate": "2026-01-22T15:20:00Z"
+    },
+    {
+      "productId": "PROD-014",
+      "locationId": "LOC-001",
+      "quantity": 72,
+      "lastRestockingDate": "2026-01-25T10:00:00Z"
+    },
+    {
+      "productId": "PROD-014",
+      "locationId": "LOC-002",
+      "quantity": 48,
+      "lastRestockingDate": "2026-01-24T12:30:00Z"
+    },
+    {
+      "productId": "PROD-014",
+      "locationId": "LOC-003",
+      "quantity": 27,
+      "lastRestockingDate": "2026-01-23T14:15:00Z"
+    },
+    {
+      "productId": "PROD-015",
+      "locationId": "LOC-001",
+      "quantity": 8,
+      "lastRestockingDate": "2026-01-12T11:30:00Z"
+    },
+    {
+      "productId": "PROD-015",
+      "locationId": "LOC-002",
+      "quantity": 4,
+      "lastRestockingDate": "2026-01-14T09:00:00Z"
+    },
+    {
+      "productId": "PROD-016",
+      "locationId": "LOC-001",
+      "quantity": 142,
+      "lastRestockingDate": "2026-01-26T07:30:00Z"
+    },
+    {
+      "productId": "PROD-016",
+      "locationId": "LOC-002",
+      "quantity": 89,
+      "lastRestockingDate": "2026-01-25T14:45:00Z"
+    },
+    {
+      "productId": "PROD-016",
+      "locationId": "LOC-003",
+      "quantity": 67,
+      "lastRestockingDate": "2026-01-24T10:20:00Z"
+    },
+    {
+      "productId": "PROD-017",
+      "locationId": "LOC-001",
+      "quantity": 24,
+      "lastRestockingDate": "2026-01-21T08:50:00Z"
+    },
+    {
+      "productId": "PROD-017",
+      "locationId": "LOC-002",
+      "quantity": 14,
+      "lastRestockingDate": "2026-01-23T11:20:00Z"
+    },
+    {
+      "productId": "PROD-018",
+      "locationId": "LOC-001",
+      "quantity": 1,
+      "lastRestockingDate": "2025-12-28T10:00:00Z"
+    },
+    {
+      "productId": "PROD-018",
+      "locationId": "LOC-002",
+      "quantity": 1,
+      "lastRestockingDate": "2025-12-29T14:30:00Z"
+    },
+    {
+      "productId": "PROD-019",
+      "locationId": "LOC-001",
+      "quantity": 56,
+      "lastRestockingDate": "2026-01-24T16:10:00Z"
+    },
+    {
+      "productId": "PROD-019",
+      "locationId": "LOC-002",
+      "quantity": 35,
+      "lastRestockingDate": "2026-01-25T12:40:00Z"
+    },
+    {
+      "productId": "PROD-020",
+      "locationId": "LOC-001",
+      "quantity": 38,
+      "lastRestockingDate": "2026-01-19T13:25:00Z"
+    },
+    {
+      "productId": "PROD-020",
+      "locationId": "LOC-002",
+      "quantity": 29,
+      "lastRestockingDate": "2026-01-21T15:55:00Z"
+    },
+    {
+      "productId": "PROD-021",
+      "locationId": "LOC-001",
+      "quantity": 98,
+      "lastRestockingDate": "2026-01-23T09:35:00Z"
+    },
+    {
+      "productId": "PROD-021",
+      "locationId": "LOC-002",
+      "quantity": 56,
+      "lastRestockingDate": "2026-01-24T11:05:00Z"
+    },
+    {
+      "productId": "PROD-021",
+      "locationId": "LOC-003",
+      "quantity": 29,
+      "lastRestockingDate": "2026-01-22T13:50:00Z"
+    },
+    {
+      "productId": "PROD-022",
+      "locationId": "LOC-001",
+      "quantity": 245,
+      "lastRestockingDate": "2026-01-26T08:20:00Z"
+    },
+    {
+      "productId": "PROD-022",
+      "locationId": "LOC-002",
+      "quantity": 156,
+      "lastRestockingDate": "2026-01-25T10:50:00Z"
+    },
+    {
+      "productId": "PROD-022",
+      "locationId": "LOC-003",
+      "quantity": 55,
+      "lastRestockingDate": "2026-01-24T14:15:00Z"
+    },
+    {
+      "productId": "PROD-023",
+      "locationId": "LOC-001",
+      "quantity": 22,
+      "lastRestockingDate": "2026-01-20T15:40:00Z"
+    },
+    {
+      "productId": "PROD-023",
+      "locationId": "LOC-002",
+      "quantity": 21,
+      "lastRestockingDate": "2026-01-22T12:10:00Z"
+    },
+    {
+      "productId": "PROD-024",
+      "locationId": "LOC-001",
+      "quantity": 62,
+      "lastRestockingDate": "2026-01-21T16:25:00Z"
+    },
+    {
+      "productId": "PROD-024",
+      "locationId": "LOC-002",
+      "quantity": 47,
+      "lastRestockingDate": "2026-01-23T13:55:00Z"
+    },
+    {
+      "productId": "PROD-025",
+      "locationId": "LOC-001",
+      "quantity": 42,
+      "lastRestockingDate": "2026-01-19T10:15:00Z"
+    },
+    {
+      "productId": "PROD-025",
+      "locationId": "LOC-002",
+      "quantity": 29,
+      "lastRestockingDate": "2026-01-21T12:45:00Z"
+    }
+  ],
+  "stockTrends": [
+    {
+      "productId": "PROD-001",
+      "locationId": "LOC-001",
+      "date": "2026-01-20",
+      "quantity": 78
+    },
+    {
+      "productId": "PROD-001",
+      "locationId": "LOC-001",
+      "date": "2026-01-21",
+      "quantity": 81
+    },
+    {
+      "productId": "PROD-001",
+      "locationId": "LOC-001",
+      "date": "2026-01-22",
+      "quantity": 83
+    },
+    {
+      "productId": "PROD-001",
+      "locationId": "LOC-001",
+      "date": "2026-01-23",
+      "quantity": 82
+    },
+    {
+      "productId": "PROD-001",
+      "locationId": "LOC-001",
+      "date": "2026-01-24",
+      "quantity": 85
+    },
+    {
+      "productId": "PROD-001",
+      "locationId": "LOC-001",
+      "date": "2026-01-25",
+      "quantity": 84
+    },
+    {
+      "productId": "PROD-001",
+      "locationId": "LOC-001",
+      "date": "2026-01-27",
+      "quantity": 85
+    },
+    {
+      "productId": "PROD-002",
+      "locationId": "LOC-001",
+      "date": "2026-01-10",
+      "quantity": 25
+    },
+    {
+      "productId": "PROD-002",
+      "locationId": "LOC-001",
+      "date": "2026-01-13",
+      "quantity": 18
+    },
+    {
+      "productId": "PROD-002",
+      "locationId": "LOC-001",
+      "date": "2026-01-15",
+      "quantity": 12
+    },
+    {
+      "productId": "PROD-002",
+      "locationId": "LOC-001",
+      "date": "2026-01-17",
+      "quantity": 8
+    },
+    {
+      "productId": "PROD-002",
+      "locationId": "LOC-001",
+      "date": "2026-01-20",
+      "quantity": 5
+    },
+    {
+      "productId": "PROD-002",
+      "locationId": "LOC-001",
+      "date": "2026-01-25",
+      "quantity": 3
+    },
+    {
+      "productId": "PROD-002",
+      "locationId": "LOC-001",
+      "date": "2026-01-27",
+      "quantity": 3
+    },
+    {
+      "productId": "PROD-011",
+      "locationId": "LOC-001",
+      "date": "2026-01-01",
+      "quantity": 18
+    },
+    {
+      "productId": "PROD-011",
+      "locationId": "LOC-001",
+      "date": "2026-01-05",
+      "quantity": 12
+    },
+    {
+      "productId": "PROD-011",
+      "locationId": "LOC-001",
+      "date": "2026-01-10",
+      "quantity": 7
+    },
+    {
+      "productId": "PROD-011",
+      "locationId": "LOC-001",
+      "date": "2026-01-15",
+      "quantity": 4
+    },
+    {
+      "productId": "PROD-011",
+      "locationId": "LOC-001",
+      "date": "2026-01-20",
+      "quantity": 2
+    },
+    {
+      "productId": "PROD-011",
+      "locationId": "LOC-001",
+      "date": "2026-01-27",
+      "quantity": 2
+    }
+  ]
+}
